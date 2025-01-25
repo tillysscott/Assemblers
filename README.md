@@ -3,13 +3,5 @@
 ![Image](https://drive.google.com/drive/folders/1KxHSsINHK3qH-lnEuvwMC9B4iGEcDZc4)
 
 # Assemblers
+Various assembly programmes for different types on genomic data.
 
-## Abyss
-
-## Palatanus
-
-## Rainbow
-
-## Idba
-
-## Process RADtags
